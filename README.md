@@ -1,5 +1,5 @@
-# currency_convertor
+# currency convertor (Flutter)
 
-Convert given currency which is in Dollars to Indian Rupees
+Convert the given currency which is in Dollars to Indian Rupees
 
-- At the time of making this project : $ 1=INR 83.02
+- At the time of making this project: $ 1=INR 83.02
